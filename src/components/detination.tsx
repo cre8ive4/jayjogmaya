@@ -116,7 +116,7 @@ const Destinationslider = () => {
                                     </p>
 
                                     <a
-                                        href={`https://wa.me/91XXXXXXXXXX?text=Hello, I want to book a cab for ${destinations[currentIndex].name}`}
+                                        href={`https://wa.me/918460004588?text=Hello, I want to book a cab for ${destinations[currentIndex].name}`}
                                         target="_blank"
                                         className="inline-block px-6 py-2 rounded-full bg-primary text-foreground font-medium transition-all duration-300 hover:scale-105"
                                     >
