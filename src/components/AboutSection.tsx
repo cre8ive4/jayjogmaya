@@ -7,7 +7,7 @@ const features = [
   "We are a trusted name",
   "we deal in have all brands",
   "have a larger stock of vehicles",
-  "we are at worldwide locations",
+  "we are at India wide locations",
 ];
 
 const AboutSection = () => {

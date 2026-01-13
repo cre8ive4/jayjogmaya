@@ -13,7 +13,7 @@ const services = [
     number: "01",
     icon: cityTransport,
     title: "City transfer",
-    description: "Kuldevi car rental provider city transfer services in resnable rate.",
+    description: "Jay Jogmaya car rental provider city transfer services in resnable rate.",
   },
   {
     id: 2,
