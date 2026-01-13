@@ -12,6 +12,7 @@ import Footer from "@/components/Footer";
 import FloatingPhone from "@/components/FloatingPhone";
 import BackToTop from "@/components/BackToTop";
 import LoadingScreen from "@/components/LoadingScreen";
+import Destinationslider from "@/components/detination";
 
 const Index = () => {
   return (
@@ -25,6 +26,7 @@ const Index = () => {
       <ServicesSection />
       <PromoSection />
       <CarsSection />
+      <Destinationslider />
       <TestimonialsSection />
       <CallSection />
       <Footer />
