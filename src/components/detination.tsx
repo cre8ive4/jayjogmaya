@@ -4,10 +4,10 @@ import { motion, AnimatePresence } from "framer-motion";
 import AnimatedSection from "./AnimatedSection";
 
 // Images
-import somnathImg from "@/assets/somnath.avif";
-import dwarkaImg from "@/assets/dwarka.jpg";
-import ahmedabadImg from "@/assets/Places-To-Explore-In-Ahmedabad.avif";
-import diuImg from "@/assets/the-ultimate-tourist-guide-to-diu-island.jpg";
+import somnathImg from "@/assets/somnath-OB40_l.webp";
+import dwarkaImg from "@/assets/Dwarkadeesh-Temple.webp";
+import ahmedabadImg from "@/assets/kankaria-lake-banner.webp";
+import diuImg from "@/assets/photo-1668518891186-c07180869132.webp";
 import statueImg from "@/assets/statue-unity.jpg";
 
 const destinations = [
